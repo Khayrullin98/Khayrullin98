@@ -13,7 +13,6 @@
 <a href="#"><img width="6%" title="JUnit5" src="logo/JUnit5.svg"></a>
 <a href="#"><img width="6%" title="GitHub" src="logo/GitHub.svg"></a>
 <a href="#"><img width="6%" title="Jenkins" src="logo/Jenkins.svg"></a>
-<a href="#"><img width="6%" title="Telegram" src="logo/Telegram.svg"></a>
 <a href="#"><img width="5%" title="Jira" src="logo/Jira.svg"></a>
 </p>
 
