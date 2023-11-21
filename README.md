@@ -76,3 +76,32 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khayrullin98&theme=default"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khayrullin98&theme=default"/></a>
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khayrullin98&theme=default"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khayrullin98&theme=default" /></a>
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khayrullin98&theme=default"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khayrullin98&theme=default" /></a>
+
+<h2>Примеры работ:</h2>
+<h3>Тесты для Мвидео</h3>
+<p>В <a href='https://github.com/Khayrullin98/Mvideo_demo'>проекте</a> реализованы тесты для проверки клиентской части приложения</p>
+
+<p align="center">
+    <img title="Jenkins" src="/img/videotest.gif"" />
+</p>
+
+<h4><a name='projectStack'>📖Стек проекта:</a></h4>
+
+<p align="center">
+    <a href="#"><img title="Java" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Java.svg" width="45px"/></a>
+    <a href="#"><img title="Gradle" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Gradle.svg" width="50px"/></a>
+    <a href="#"><img title="JUnit5" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/JUnit5.svg" width="50px"/></a>
+    <a href="#"><img title="Selenide" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Selenide.svg" width="50px"/></a>
+    <a href="#"><img title="Allure_Report" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Allure_Report.svg" width="50px"/></a>
+    <a href="#"><img title="Jenkins" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Jenkins.svg" width="50px"/></a>
+    <a href="#"><img title="Selenoid" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/Selenoid.svg" width="50px"/></a>
+    <a href="#"><img title="Allure Test Ops" src="https://github.com/Khayrullin98/Khayrullin98/blob/main/logo/AllureTestOps.svg" width="42px"/></a>
+</p>
+
+<h4>📖Особенности проекта</h4>
+
+- [x] Разделение тестов на группы для смоук и регрессионного тестирования + разделение на темы: для главной страницы, для поиска, для корзины. Выбрать задачи можно при параметризованной сборке в Jenkins
+- [x] Уведомления о прохождении тестов в телеграм
+- [x] Отчет о прохождении тестов в Allure Reports
+- [x] Интеграция с Allure Test Ops
+- [x] Интеграция с Jira
